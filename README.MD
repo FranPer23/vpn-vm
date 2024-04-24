@@ -26,3 +26,4 @@ Per eseguire l'esercizio bisogna avere un certificato a disposizione, se non c'√
 | ExportedTemplate-ca-vpnpeering-rg.zip | Template JSON di una distribuzione|
 | ca-vpnpeering-rg.png | Visualizzazione grafica della distribuzione|
 | keyvault.tf | usato per creare la secret che poi sar√† la pw del vm|
+# vpn-vm
